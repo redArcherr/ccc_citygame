@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# Cocos Creator 制作游戏
+使用ccc做的模拟城市规划的小游戏，由于首次使用CCC，主要尝试整体制作流程和熟悉常用的组件，所以游戏玩法比较简单。
