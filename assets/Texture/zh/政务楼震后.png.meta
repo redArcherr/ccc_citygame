@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1c049f11-1218-49ee-8ee4-1a5952bdd097",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "政务楼震后": {
+      "ver": "1.0.3",
+      "uuid": "c6902966-a9b3-4f38-9df4-662217f796d1",
+      "rawTextureUuid": "1c049f11-1218-49ee-8ee4-1a5952bdd097",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -35.5,
+      "offsetY": 2,
+      "trimX": 97,
+      "trimY": 5,
+      "width": 135,
+      "height": 223,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "480eea75-b33b-4e9a-b664-483170c75cb1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "办公区2震后": {
+      "ver": "1.0.3",
+      "uuid": "f35890bd-c976-43dd-b8f8-a58a7acdb0e6",
+      "rawTextureUuid": "480eea75-b33b-4e9a-b664-483170c75cb1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 133,
+      "trimY": 40,
+      "width": 134,
+      "height": 156,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

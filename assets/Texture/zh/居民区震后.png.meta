@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cee04f73-055a-4aae-8613-bb38278e8f57",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "居民区震后": {
+      "ver": "1.0.3",
+      "uuid": "915a05fa-8901-4035-8d80-bcca2d219fd0",
+      "rawTextureUuid": "cee04f73-055a-4aae-8613-bb38278e8f57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 16,
+      "trimX": 99,
+      "trimY": 12,
+      "width": 195,
+      "height": 181,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

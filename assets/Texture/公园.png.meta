@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "70b103de-c47e-41fc-918c-5e1dfb76ed0d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "公园": {
+      "ver": "1.0.3",
+      "uuid": "1f281d25-79a0-493b-b40a-86eed55c8494",
+      "rawTextureUuid": "70b103de-c47e-41fc-918c-5e1dfb76ed0d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 7,
+      "trimX": 94,
+      "trimY": 50,
+      "width": 213,
+      "height": 123,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

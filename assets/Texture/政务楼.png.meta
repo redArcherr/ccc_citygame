@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e80792ea-be2a-40ef-9f03-cb73f76d9264",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "政务楼": {
+      "ver": "1.0.3",
+      "uuid": "e5e86d10-77a0-47b9-95ed-72ed09b80390",
+      "rawTextureUuid": "e80792ea-be2a-40ef-9f03-cb73f76d9264",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 11.5,
+      "trimX": 116,
+      "trimY": 7,
+      "width": 152,
+      "height": 200,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

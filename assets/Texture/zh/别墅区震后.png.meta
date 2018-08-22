@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f71857e-488a-48f4-95b0-eb55c90c1db2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "别墅区震后": {
+      "ver": "1.0.3",
+      "uuid": "1aaa1932-f2f9-40e5-af75-c02136ac4b3a",
+      "rawTextureUuid": "9f71857e-488a-48f4-95b0-eb55c90c1db2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -4,
+      "trimX": 87,
+      "trimY": 47,
+      "width": 225,
+      "height": 151,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "38b174b6-f585-4f5d-b750-b0e3b241bddf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "别墅区": {
+      "ver": "1.0.3",
+      "uuid": "05ad7d3a-0a27-4788-9f69-aa97ba543097",
+      "rawTextureUuid": "38b174b6-f585-4f5d-b750-b0e3b241bddf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 87,
+      "trimY": 54,
+      "width": 225,
+      "height": 129,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

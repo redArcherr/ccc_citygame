@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2cca7340-2249-4946-99d8-79d0bcedb031",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "学校震后": {
+      "ver": "1.0.3",
+      "uuid": "aa7a6eac-5d62-4af7-a6d0-587719dbde23",
+      "rawTextureUuid": "2cca7340-2249-4946-99d8-79d0bcedb031",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 111,
+      "trimY": 73,
+      "width": 177,
+      "height": 91,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

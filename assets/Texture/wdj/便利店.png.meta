@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "797ba11b-480f-4cc5-8645-cfe7859c0f49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "便利店": {
+      "ver": "1.0.3",
+      "uuid": "a0e49df6-70d0-42af-9264-943715a806e8",
+      "rawTextureUuid": "797ba11b-480f-4cc5-8645-cfe7859c0f49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -16,
+      "offsetY": 16,
+      "trimX": 98,
+      "trimY": 35,
+      "width": 172,
+      "height": 135,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

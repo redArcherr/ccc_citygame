@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a95f95e4-1845-4b8d-ad81-6a8aac78e2b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "美术馆震后": {
+      "ver": "1.0.3",
+      "uuid": "967e15ca-88dc-4275-b559-84040af4cf7b",
+      "rawTextureUuid": "a95f95e4-1845-4b8d-ad81-6a8aac78e2b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -10,
+      "offsetY": -0.5,
+      "trimX": 122,
+      "trimY": 60,
+      "width": 136,
+      "height": 118,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

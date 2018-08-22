@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6f10135f-05cf-4fe0-b593-89ac9b063489",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "学校": {
+      "ver": "1.0.3",
+      "uuid": "f42ce64e-e4b4-4ee4-b241-bd5859684358",
+      "rawTextureUuid": "6f10135f-05cf-4fe0-b593-89ac9b063489",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -1,
+      "trimX": 83,
+      "trimY": 54,
+      "width": 227,
+      "height": 131,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

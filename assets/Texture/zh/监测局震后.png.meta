@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "92396d87-e567-40f2-bf2f-ecab9d4616b6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "监测局震后": {
+      "ver": "1.0.3",
+      "uuid": "a8a0d0dc-a367-47ad-91b1-3ccd2b6d6cf7",
+      "rawTextureUuid": "92396d87-e567-40f2-bf2f-ecab9d4616b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 138,
+      "trimY": 41,
+      "width": 124,
+      "height": 155,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

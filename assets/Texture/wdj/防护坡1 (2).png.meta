@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "019acbb4-17f6-42c1-9ec8-283eeccf4ef0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "防护坡1 (2)": {
+      "ver": "1.0.3",
+      "uuid": "ffe21885-ce52-4484-baa1-e968d2a44863",
+      "rawTextureUuid": "019acbb4-17f6-42c1-9ec8-283eeccf4ef0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 740,
+      "height": 394,
+      "rawWidth": 741,
+      "rawHeight": 395,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

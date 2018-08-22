@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "storm",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 8,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "18dd6c78-7138-4953-9cab-440e6b38048f"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "ac0ca155-da2f-4d55-b049-0d07563c32c8"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f9fa7932-7dfb-4a47-9f82-46bafba37dee"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "fc5132a1-c1c2-4a1f-bb65-2f312d09c123"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

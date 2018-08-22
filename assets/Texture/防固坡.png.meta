@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "69da8692-68de-48b9-a8d2-35dd535aff6f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "防固坡": {
+      "ver": "1.0.3",
+      "uuid": "bc8dfd35-9a4b-4ca3-b208-063a2efd6a93",
+      "rawTextureUuid": "69da8692-68de-48b9-a8d2-35dd535aff6f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": -5.5,
+      "trimX": 125,
+      "trimY": 71,
+      "width": 134,
+      "height": 106,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

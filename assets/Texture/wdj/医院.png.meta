@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c2901dc3-c027-49a4-abd1-4eb57d96058e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "医院": {
+      "ver": "1.0.3",
+      "uuid": "fe7bec79-92d9-4afa-9a4a-2fcdedd054e6",
+      "rawTextureUuid": "c2901dc3-c027-49a4-abd1-4eb57d96058e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17.5,
+      "offsetY": -9,
+      "trimX": 103,
+      "trimY": 69,
+      "width": 159,
+      "height": 117,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

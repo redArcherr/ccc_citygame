@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "232e15a5-8cfd-4ddd-8d90-dd00dfa0aab4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "车站震后": {
+      "ver": "1.0.3",
+      "uuid": "5967f08e-ea14-4da1-b775-27b1e776e6e0",
+      "rawTextureUuid": "232e15a5-8cfd-4ddd-8d90-dd00dfa0aab4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": 7,
+      "trimX": 135,
+      "trimY": 42,
+      "width": 119,
+      "height": 139,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

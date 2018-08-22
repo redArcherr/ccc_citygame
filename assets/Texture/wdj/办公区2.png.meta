@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2de384b5-509a-4734-916f-33cab19791cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "办公区2": {
+      "ver": "1.0.3",
+      "uuid": "7f12e1ad-e7ba-4feb-8672-16b2fe2686a4",
+      "rawTextureUuid": "2de384b5-509a-4734-916f-33cab19791cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 5.5,
+      "trimX": 134,
+      "trimY": 36,
+      "width": 132,
+      "height": 154,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

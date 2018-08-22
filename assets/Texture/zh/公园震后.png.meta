@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0d31f83c-6db1-4c5e-81c7-4f15785be4de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "公园震后": {
+      "ver": "1.0.3",
+      "uuid": "61ca96af-cf82-4c66-8429-fd46f8185fda",
+      "rawTextureUuid": "0d31f83c-6db1-4c5e-81c7-4f15785be4de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 12,
+      "trimX": 106,
+      "trimY": 47,
+      "width": 197,
+      "height": 119,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

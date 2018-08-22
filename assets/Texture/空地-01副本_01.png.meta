@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2f0da871-306c-4431-b424-dd07e2c12c74",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "空地-01副本_01": {
+      "ver": "1.0.3",
+      "uuid": "db10a531-5017-4ef7-a68d-c4bb75cd1169",
+      "rawTextureUuid": "2f0da871-306c-4431-b424-dd07e2c12c74",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 717,
+      "height": 1100,
+      "rawWidth": 717,
+      "rawHeight": 1100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

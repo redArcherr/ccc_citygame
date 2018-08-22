@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f920f5f0-8ac7-4a3f-be93-9c96b1378eae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "监测局": {
+      "ver": "1.0.3",
+      "uuid": "ce149420-a7ed-4f0a-afbc-1db1a9df5c8d",
+      "rawTextureUuid": "f920f5f0-8ac7-4a3f-be93-9c96b1378eae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 101,
+      "trimY": 26,
+      "width": 198,
+      "height": 185,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

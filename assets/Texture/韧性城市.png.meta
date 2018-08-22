@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "312af879-76af-480f-838e-41bd7598bfb1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "韧性城市": {
+      "ver": "1.0.3",
+      "uuid": "18586eff-ed12-4539-9516-8ad5b6a85a52",
+      "rawTextureUuid": "312af879-76af-480f-838e-41bd7598bfb1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -7.5,
+      "trimX": 4,
+      "trimY": 21,
+      "width": 616,
+      "height": 144,
+      "rawWidth": 622,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

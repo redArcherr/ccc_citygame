@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d3e009b9-f82d-4046-a82f-76b037cd2927",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "便利店震后": {
+      "ver": "1.0.3",
+      "uuid": "d0fee3fe-c1d5-4699-9545-d24329faf8fe",
+      "rawTextureUuid": "d3e009b9-f82d-4046-a82f-76b037cd2927",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -28,
+      "offsetY": 7,
+      "trimX": 86,
+      "trimY": 50,
+      "width": 172,
+      "height": 123,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

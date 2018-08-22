@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bcb4e9d1-6a0a-4581-99d5-9c89e8303f69",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "加油站震后": {
+      "ver": "1.0.3",
+      "uuid": "78e6cf3b-61f4-4421-a4b8-019ee47a1341",
+      "rawTextureUuid": "bcb4e9d1-6a0a-4581-99d5-9c89e8303f69",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 116,
+      "trimY": 51,
+      "width": 167,
+      "height": 135,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

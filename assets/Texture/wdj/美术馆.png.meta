@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9a568d33-ebb8-422c-915b-0ae7f61b56fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "美术馆": {
+      "ver": "1.0.3",
+      "uuid": "f6387c82-fdee-45fb-b761-f47f5ff8c45e",
+      "rawTextureUuid": "9a568d33-ebb8-422c-915b-0ae7f61b56fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 139,
+      "trimY": 59,
+      "width": 121,
+      "height": 118,
+      "rawWidth": 400,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
